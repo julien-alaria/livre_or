@@ -1,9 +1,9 @@
 <?php
 
 class Database {
-    private $host = "localhost";
+    private $host = "";
     private $dbname = "livreor";
-    private $username = "root";
+    private $username = "";
     private $password = "";
     private $pdo;
 
